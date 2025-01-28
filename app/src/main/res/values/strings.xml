@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LuckySeven</string>
+    <string name="blank">""</string>
+    <string name="title_welcome">Welcome</string>
+</resources>

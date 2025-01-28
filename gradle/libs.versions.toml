@@ -1,0 +1,45 @@
+[versions]
+#BUILD
+versionName = "1.0.0"
+versionCode = "1"
+applicationId = "com.luckyseven.app"
+minSdk = "24"
+targetSdk = "35"
+compileSdk = "35"
+build = "34.0.0"
+kotlinGradle = "1.9.22"
+android-application = "8.2.2"
+
+core-ktx = "1.15.0"
+appcompat = "1.7.0"
+material = "1.12.0"
+constraintlayout = "2.2.0"
+androidx-junit = "4.13.2"
+test-ext = "1.2.1"
+test-espresso = "3.6.1"
+hilt-android = "2.51.1"
+androidx-navigation = "2.8.5"
+kotlin = "1.9.24"
+
+[libraries]
+#CLASSPATHS
+hilt-android-gradle-plugin = { module = "com.google.dagger:hilt-android-gradle-plugin", version.ref = "hilt-android" }
+androidx-navigation-safeargs-plugin = { module = "androidx.navigation:navigation-safe-args-gradle-plugin", version.ref = "androidx-navigation" }
+
+#LIBRARIES
+hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt-android" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt-android" }
+androidx-navigation-runtime = { module = "androidx.navigation:navigation-runtime-ktx", version.ref = "androidx-navigation"}
+androidx-navigation-fragment = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "androidx-navigation"}
+androidx-navigation-ui = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "androidx-navigation"}
+
+core-ktx = { module = "androidx.core:core-ktx", version.ref = "core-ktx" }
+android-material = { module = "com.google.android.material:material", version.ref = "material" }
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "constraintlayout" }
+junit = { module = "junit:junit", version.ref = "androidx-junit" }
+androidx-test-ext = { module = "androidx.test.ext:junit", version.ref = "test-ext" }
+androidx-test-espresso = { module = "androidx.test.espresso:espresso-core", version.ref = "test-espresso" }
+
+[plugins]
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
