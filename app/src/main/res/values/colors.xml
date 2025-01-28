@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#26FFFFFF</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#EDC92F</color>
+    <color name="colorAccent">#EDC92F</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="txtBlack">#000000</color>
+    <color name="txtWhite">#FFFFFF</color>
+    <color name="txtHint">#c4c4c4</color>
+
+    <color name="login_button_disable">#696969</color>
+
+    <color name="button_disable">#696969</color>
+    <color name="button_press">#006383</color>
+    <color name="button">#063bab</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_text_disable">#cccccc</color>
+
+    <color name="secondary_button_text">#FFFFFF</color>
+    <color name="ssecondary_button_text_disable">#cccccc</color>
+    <color name="secondary_button">#EDC92F</color>
+    <color name="secondary_button_press">#F6E186</color>
+
+</resources>
