@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-mergeDebugResources-50:/layout/activity_splash.xml",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.luckyseven.app-mergeDebugResources-50:/layout/fragment_ls_loading.xml",
+        "source": "com.luckyseven.app-main-53:/layout/fragment_ls_loading.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-mergeDebugResources-50:/layout/fragment_login.xml",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/fragment_login.xml"
+    }
+]

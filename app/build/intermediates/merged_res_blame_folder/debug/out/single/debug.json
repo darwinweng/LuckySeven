@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/anim_slide_out_to_left.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/anim/slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_ic_show_pass.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/ic_show_pass.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/font_inter_semibold.ttf.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/anim_slide_out_to_right.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/anim/slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/navigation_main_nav.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/navigation/main_nav.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/layout_fragment_home.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_ic_hide_pass.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/ic_hide_pass.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/layout_activity_splash.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/font_inter_bold.ttf.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/font_inter_regular.ttf.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.luckyseven.app-merged_res-51:/layout_fragment_ls_loading.xml.flat",
+        "source": "com.luckyseven.app-main-53:/layout/fragment_ls_loading.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_show_password_selector.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/show_password_selector.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/layout_fragment_login.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/font_inter_light.ttf.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/font/inter_light.ttf"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/anim_slide_in_from_left.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/anim/slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_bg_secondary_button.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/bg_secondary_button.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/anim_slide_in_from_right.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/anim/slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-merged_res-51:/drawable_bg_field.xml.flat",
+        "source": "/Users/dmoca/.gradle/daemon/8.2/com.luckyseven.app-main-53:/drawable/bg_field.xml"
+    }
+]

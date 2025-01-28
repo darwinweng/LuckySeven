@@ -1,0 +1,6 @@
+com.luckyseven.app.test.app-core-1.6.1-0 /Users/dmoca/.gradle/caches/transforms-3/580206639c0db6ddb54956484a0785fa/transformed/core-1.6.1/res
+com.luckyseven.app.test.app-tracing-1.2.0-1 /Users/dmoca/.gradle/caches/transforms-3/9ec2c0a99b2efe1e3d96ee59cb3b058d/transformed/tracing-1.2.0/res
+com.luckyseven.app.test.app-androidTest-2 /Users/dmoca/Documents/Android-Project/LuckySeven/app/build/generated/res/resValues/androidTest/debug
+com.luckyseven.app.test.app-mergeDebugAndroidTestResources-3 /Users/dmoca/Documents/Android-Project/LuckySeven/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.luckyseven.app.test.app-mergeDebugAndroidTestResources-4 /Users/dmoca/Documents/Android-Project/LuckySeven/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.luckyseven.app.test.app-merged_res-5 /Users/dmoca/Documents/Android-Project/LuckySeven/app/build/intermediates/merged_res/debugAndroidTest

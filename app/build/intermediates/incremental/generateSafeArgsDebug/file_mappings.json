@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/main_nav.xml","javaFiles":["com.luckyseven.app.MainNavDirections","com.luckyseven.app.ui.auth.LoginFragmentDirections","com.luckyseven.app.ui.home.HomeFragmentDirections"]}]
